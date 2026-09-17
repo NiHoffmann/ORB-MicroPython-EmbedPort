@@ -39,7 +39,7 @@ The following steps will guide you through the project setup. If you only want t
 
 1. (Install Git and) Clone the project:
     ```bash
-    git clone https://github.com/NiHoffmann/ORB
+    git clone https://github.com/NiHoffmann/ORB-MicroPython-EmbedPort
     ```
 
 2. Download and install [Python 3](https://www.python.org/downloads/).  
