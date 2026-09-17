@@ -1,8 +1,6 @@
 
 # README
 
-This is a simple documentation to set up the project and provide a concise explanation of what this project is about. The in-depth documentation is only available in German and can be found [here](Dokumentation).
-
 # Project Overview
 - **Extend ORB Project** STM32-Based robot board project extended with new features (see details below).
 - **Full integration of MicroPython into the ORB firmware** wrote native C bindings via the MicroPython C API, exposing all ORB firmware features (motor and sensor control, etc.) to Python through wrapper classes.
@@ -12,6 +10,9 @@ This is a simple documentation to set up the project and provide a concise expla
 - **Maintained full C++ support** ORB-Firmware still allows C++ program development and uploading, so both Python and C++ workflows are supported on the same firmware.  
 - **ORB-MicroPython API documentation** what's there to say about it.
 - **Miscellaneous tasks** benchmarked MicroPython vs. C++ code, created MicroPython example programs, documented requirements, implementation, ..., and some more smaller tasks.
+
+
+This is a simple documentation to set up the project and provide a concise explanation of what this project is about. The in-depth documentation is only available in German and can be found [here](Dokumentation).
   
 # Project Goal
 
