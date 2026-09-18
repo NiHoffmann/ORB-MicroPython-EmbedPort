@@ -1,6 +1,8 @@
 
 # README
 
+<img src="Dokumentation/Bilder/orb_robot_picture.jpg" alt="ORB Robot" width="400">
+
 # Project Overview
 - **Extend ORB Project** STM32-Based robot board project extended with new features (see details below).
 - **Full integration of MicroPython into the ORB firmware** wrote native C bindings via the MicroPython C API, exposing all ORB firmware features (motor and sensor control, etc.) to Python through wrapper classes.
