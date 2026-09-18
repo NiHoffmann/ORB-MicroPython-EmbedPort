@@ -1,7 +1,19 @@
 
 # README
 
-<img src="Dokumentation/Bilder/orb_robot_picture.jpg" alt="ORB Robot" width="400">
+Native MicroPython support for the ORB robot platform - embedding MicroPython Interpreter into ORB firmware and exposing full motor/sensor control through custom C-MicroPython modules, while fully preserving the existing C++ programming workflow.
+
+Ever wondered how to use the MicroPython C API and structure MicroPython modules? Check out [ORB-Python](ORB-Python/src) (built on MicroPython embed port, testable on windows).
+<table align="center">
+  <tr>
+    <td align="center"><strong>ORB Robot</strong></td>
+    <td align="center"><strong>MicroPython Example Code</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Dokumentation/Bilder/orb_robot_picture.jpg" alt="ORB Robot" height="350"></td>
+    <td align="center"><img src="Dokumentation/Bilder/python_code_example.png" alt="MicroPython code for ORB" height="350"></td>
+  </tr>
+</table>
 
 # Project Overview
 - **Extend ORB Project** STM32-Based robot board project extended with new features (see details below).
